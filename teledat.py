@@ -616,7 +616,7 @@ def get_telinfo():
          },
         {
             "telename":"OPD 0.6m",
-            "instname":"ccd",
+            "instname":"Caml+Ixon",
             "code"    :"opd06",
             "objname" :"OBJECT",
             "filter"  :"FILTER",
@@ -627,8 +627,8 @@ def get_telinfo():
             "dformat" :1,
             "tformat" :1,
             "dark"    :np.nan,
-            "read"    :4.82,
-            "gain"    :0.8
+            "read"    :6.3,
+            "gain"    :1.5
          }
     ]
 
