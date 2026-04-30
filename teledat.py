@@ -613,6 +613,22 @@ def get_telinfo():
             "dark"    :np.nan,
             "read"    :4.82,
             "gain"    :0.8
+         },
+        {
+            "telename":"OPD 0.6m",
+            "instname":"ccd",
+            "code"    :"opd06",
+            "objname" :"OBJECT",
+            "filter"  :"FILTER",
+            "observer":"OBSERVER",
+            "date"    :"DATE-OBS",
+            "time"    :None,
+            "texp"    :"EXPTIME",
+            "dformat" :1,
+            "tformat" :1,
+            "dark"    :np.nan,
+            "read"    :4.82,
+            "gain"    :0.8
          }
     ]
 
