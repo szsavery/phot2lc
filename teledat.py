@@ -623,7 +623,7 @@ def get_telinfo():
             "observer":"OBSERVER",
             "date"    :"DATE-OBS",
             "time"    :None,
-            "texp"    :"EXPTIME",
+            "texp"    :"EXPOSURE",
             "dformat" :1,
             "tformat" :1,
             "dark"    :np.nan,
