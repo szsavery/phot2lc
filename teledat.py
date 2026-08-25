@@ -643,8 +643,8 @@ def get_telinfo():
             "dformat" :1,
             "tformat" :1,
             "dark"    :np.nan,
-            "read"    :,
-            "gain"    :
+            "read"    :np.nan,
+            "gain"    :1.00
          }
     ]
 
