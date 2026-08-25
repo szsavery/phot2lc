@@ -629,6 +629,22 @@ def get_telinfo():
             "dark"    :np.nan,
             "read"    :6.3,
             "gain"    :1.5
+         },
+        {
+            "telename":"ROAD, Chile",
+            "instname":"QHYCCD-Cameras-Capture",
+            "code"    :"road",
+            "objname" :"OBJECT",
+            "filter"  :"FILTER",
+            "observer":"OBSERVER",
+            "date"    :"DATE-OBS",
+            "time"    :None,
+            "texp"    :"EXPTIME",
+            "dformat" :1,
+            "tformat" :1,
+            "dark"    :np.nan,
+            "read"    :,
+            "gain"    :
          }
     ]
 
