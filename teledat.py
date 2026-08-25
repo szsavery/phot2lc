@@ -584,7 +584,7 @@ def get_telinfo():
          },
          {
              "telename":"OAN-SPM 1.5m",
-             "instname":"CAMILA",
+             "instname":"E2V-4240",
              "code"    :"oanspm",
              "objname" :"OBJECT",
              "filter"  :"FILTER",
