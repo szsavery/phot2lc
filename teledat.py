@@ -584,7 +584,7 @@ def get_telinfo():
          },
          {
              "telename":"Lookout Observatory 14inch, UNCA",
-             "instname":"ASCOM Camera",
+             "instname":"Gx/Cx USB",
              "code"    :"unca",
              "objname" :"OBJECT",
              "filter"  :"FILTER",
