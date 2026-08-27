@@ -502,6 +502,22 @@ def get_telinfo():
              "read"    :np.nan,
              "gain"    :1.0
           },
+        {
+             "telename":"AZT-20 at Assy-Turgen Observatory",
+             "instname":"Kepler KL400 CMOS",
+             "code"    :"ato",
+             "objname" :"OBJECT",
+             "filter"  :"FILTER",
+             "observer":"OBSERVER",
+             "date"    :"DATE-OBS",
+             "time"    :None,
+             "texp"    :"EXPTIME",
+             "dformat" :1,
+             "tformat" :1,
+             "dark"    :np.nan,
+             "read"    :np.nan,
+             "gain"    :1.5
+          },
           {
              "telename":"Warwaick remote 1-meter at RM",
              "instname":"DW936_BV",
