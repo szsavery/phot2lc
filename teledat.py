@@ -663,20 +663,20 @@ def get_telinfo():
             "gain"    :1.00
          },
         {
-            "telename":"",
-            "instname":"",
-            "code"    :"",
+            "telename":"Moletai Observatory 0.3m, Lithuania",
+            "instname":"CCD4710",
+            "code"    :"mole",
             "objname" :"OBJECT",
             "filter"  :"FILTER",
             "observer":"OBSERVER",
             "date"    :"DATE-OBS",
             "time"    :None,
-            "texp"    :"EXPTIME",
+            "texp"    :"EXPOSURE",
             "dformat" :1,
             "tformat" :1,
             "dark"    :np.nan,
             "read"    :np.nan,
-            "gain"    :1.00
+            "gain"    :63.00
          }
     ]
 
