@@ -693,6 +693,38 @@ def get_telinfo():
             "dark"    :np.nan,
             "read"    :np.nan,
             "gain"    :63.00
+         },
+        {
+            "telename":"250mm Orion at Oculus Observatory, PJMO J. Scarborough",
+            "instname":"ASI Camera",
+            "code"    :"scar",
+            "objname" :"OBJECT",
+            "filter"  :"FILTER",
+            "observer":"OBSERVER",
+            "date"    :"DATE-OBS",
+            "time"    :None,
+            "texp"    :"EXPOSURE",
+            "dformat" :1,
+            "tformat" :1,
+            "dark"    :np.nan,
+            "read"    :np.nan,
+            "gain"    :1.00
+         },
+        {
+            "telename":"CDK700 at Chorzow Observatory, Poland",
+            "instname":"FLI Kepler",
+            "code"    :"chorz",
+            "objname" :"OBJECT",
+            "filter"  :"FILTER",
+            "observer":"OBSERVER",
+            "date"    :"DATE-OBS",
+            "time"    :None,
+            "texp"    :"EXPOSURE",
+            "dformat" :1,
+            "tformat" :1,
+            "dark"    :np.nan,
+            "read"    :np.nan,
+            "gain"    :1.5
          }
     ]
 
