@@ -725,6 +725,22 @@ def get_telinfo():
             "dark"    :np.nan,
             "read"    :np.nan,
             "gain"    :1.5
+         },
+        {
+            "telename":"Observatorio Astronómico Universidad Tecnológica de Pereira (OAUTP) 16 inch",
+            "instname":"SBIG STF-8300 CCD",
+            "code"    :"oautp",
+            "objname" :"OBJECT",
+            "filter"  :"FILTER",
+            "observer":"OBSERVER",
+            "date"    :"DATE-OBS",
+            "time"    :None,
+            "texp"    :"EXPOSURE",
+            "dformat" :1,
+            "tformat" :1,
+            "dark"    :np.nan,
+            "read"    :np.nan,
+            "gain"    :0.38
          }
     ]
 
